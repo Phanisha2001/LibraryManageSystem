@@ -1,0 +1,11 @@
+
+`
+java:S1192!"JDefine a constant instead of duplicating this literal "publisher" 5 times.(ÆŸÞ˜
+p
+java:S11922"UDefine a constant instead of duplicating this literal "redirect:/publishers" 3 times.(”Ó¹úûÿÿÿÿ
+b
+java:S4684&"@Replace this persistent entity with a simple POJO or DTO object.(óñž¦ÿÿÿÿÿ8± ½Õ‚1
+b
+java:S4684+"@Replace this persistent entity with a simple POJO or DTO object.(ÖÊçöÿÿÿÿÿ8² ½Õ‚1
+b
+java:S4684="@Replace this persistent entity with a simple POJO or DTO object.(Â—¶”ùÿÿÿÿ8³ ½Õ‚1
